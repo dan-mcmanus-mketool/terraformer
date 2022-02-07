@@ -15,6 +15,7 @@ A CLI tool that generates `tf`/`json` and `tfstate` files based on existing infr
 ![Waze SRE logo](assets/waze-sre-logo.png)
 
 # Table of Contents
+- [AWS Services](/docs/aws.md)
 - [Demo GCP](#demo-gcp)
 - [Capabilities](#capabilities)
 - [Installation](#installation)
